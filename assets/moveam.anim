@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "moveam",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.9,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0c562444-38ce-48c7-a766-318f551a1223"
+            }
+          },
+          {
+            "frame": 1.8,
+            "value": {
+              "__uuid__": "0c562444-38ce-48c7-a766-318f551a1223"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            421,
+            73
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.8,
+          "value": [
+            -316,
+            80
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}
